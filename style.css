@@ -1,0 +1,35 @@
+body
+{
+  background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start,#object_status,#status
+{
+    font-size: 18px;
+}
+
+.footer
+{
+    color: aquamarine;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+    background-color: black;
+}
+
+canvas
+{
+    border-radius: 10px;
+    border:2px solid black;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px pink;
+}
